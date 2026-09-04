@@ -1,0 +1,39 @@
+# Xcode
+## User settings
+*.xcuserdata/
+xcuserdata/
+
+## Build generated
+build/
+DerivedData/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Xcode 8 and earlier
+*.xcscmblueprint
+*.xccheckout
+
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/configuration/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary & backup files
+*.swp
+*.bak
+*~
+*.tmp
