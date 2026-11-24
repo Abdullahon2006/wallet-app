@@ -99,7 +99,7 @@ Vault/
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+GNU AGPLv3 — see [LICENSE](LICENSE).
 
 ## Contributing
 
